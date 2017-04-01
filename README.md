@@ -1,6 +1,8 @@
 Simple Marko app skeleton
 =========================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/markoa-skeleton-app.svg)](https://greenkeeper.io/)
+
 Getting started
 ---------------
 
